@@ -1,2 +1,2 @@
-# tip-calculator
-Tip calculator
+# Tip calculator
+
